@@ -5,3 +5,7 @@ Colorful alert types
 ->Info
 ->Danger
 ->Success
+
+# CodePen
+
+http://codepen.io/anon/pen/WRLGPM
