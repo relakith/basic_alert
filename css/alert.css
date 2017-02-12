@@ -1,0 +1,27 @@
+@charset "UTF-8";/*!
+  * Basic Alerts
+  *
+  * Copyright (c) 2017 Emirkan Acar <info@relakith.com>
+  */
+  @import url(https://fonts.googleapis.com/css?family=Roboto:300);
+
+  .alert-box p {
+    color: white;
+    font-family: "Roboto", sans-serif;
+    padding: 22px;
+  }
+  .alert-success {
+    background-color: #57D131;
+  }
+
+  .alert-danger {
+    background-color: #C9182B;
+  }
+
+  .alert-info {
+    background-color: #0288d1;
+  }
+
+  .alert-warning {
+    background-color: #f57c00;
+  }
